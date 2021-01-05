@@ -16,7 +16,6 @@ npm install grownpm
 const gt = require("grownpm");
 
 // Type: [ Promise ]
-
 gt.then(data => {
     console.log(data.online_user);
     // Output: 57144
@@ -29,7 +28,6 @@ gt.then(data => {
 const gt = require("grownpm");
 
 //Type: [ Promise ]
-
 gt.then(data => {
     console.log(data);
     /*
