@@ -1,0 +1,31 @@
+{
+  "name": "grownpm",
+  "version": "1.0.0",
+  "description": "Simple npm package about the information of the Growtopia status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "growtopia",
+    "gt",
+    "growtopian",
+    "growtopia api",
+    "sadesxd",
+    "gt api",
+    "growtopia npm",
+    "grownpm"
+  ],
+  "author": {
+    "name": "SadesXD"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment-timezone": "^0.5.32"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://www.github.com/SadesXD/grownpm"
+  }
+}
